@@ -7,13 +7,13 @@ Full-Stack Developer | Building intelligent software solutions using React, Node
 ### About Me
 - 🎓 Software Engineering Student at **Tek-Up University**
 - 💡 Passionate about **Full-Stack Development** and **AI integration**
-- 🔭 Currently working with **React, FastAPI, Flutter & Docker**
+- 🔭 Currently working with **React, FastAPI & Docker**
 - 📜 Certified **RHCSA** — Red Hat Certified System Administrator
 
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** React · Flutter · TypeScript · TailwindCSS  
+**Frontend:** React  · TypeScript · TailwindCSS  
 **Backend:** Node.js · Express.js · FastAPI · Spring Boot  
 **Database:** PostgreSQL · MongoDB · Redis  
 **AI & Tools:** Python · OpenCV · PyTorch · Docker · Git
